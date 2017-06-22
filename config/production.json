@@ -1,0 +1,5 @@
+{
+  "host": "nogame-api-app.feathersjs.com",
+  "port": "PORT",
+  "mongodb": "MONGODB_URI"
+}
